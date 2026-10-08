@@ -1,0 +1,6 @@
+# Compiled class files
+out/
+*.class
+
+# Test input
+test_input.txt
